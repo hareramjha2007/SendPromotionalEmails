@@ -1,4 +1,4 @@
-# SendPromotionalEmails
+# Send Promotional Emails
 If you want to send promotional/business emails to millions of people at one go then this solution will help to do that. There are some third party providers like SendGrid offers such paid services. But with this solution you just need to pay small amount to the Amazon AWS. Amazon charge is very low and you pay only for what you have used.
 I have used the AWS Simple Email Service(SES) in this solution. You can even try it for free if you want to try it out.
 
